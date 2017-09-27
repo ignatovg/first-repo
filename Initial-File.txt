@@ -1,3 +1,9 @@
 Simple content inside
+Update from 2th
+dadasd
 Update from 1th
+<<<<<<< HEAD
 joro
+=======
+
+>>>>>>> 69a2d53f36ce07a7fb8a00176f919ebab2f8175f
