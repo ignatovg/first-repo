@@ -1,5 +1,2 @@
-# first-repo
-#second edint int readme now
-#alooy
-#Third edit in readme
-
+#MyFirstRepo
+#This Repo is made for practise.
